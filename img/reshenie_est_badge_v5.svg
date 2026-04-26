@@ -1,0 +1,21 @@
+<svg width="100%" viewBox="60 8 280 92" role="img" xmlns="http://www.w3.org/2000/svg" style="">
+  <title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Значок «Решение есть»</title>
+  <desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Баннер «Решение есть»</desc>
+
+  <!-- Left ribbon tail -->
+  <polygon points="75,20 108,20 108,94 75,94 100,57" fill="white" stroke="#cc1f1f" stroke-width="6" stroke-linejoin="round" style="fill:rgb(255, 255, 255);stroke:rgb(204, 31, 31);color:rgb(0, 0, 0);stroke-width:6px;stroke-linecap:butt;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Right ribbon tail -->
+  <polygon points="325,20 292,20 292,94 325,94 300,57" fill="white" stroke="#cc1f1f" stroke-width="6" stroke-linejoin="round" style="fill:rgb(255, 255, 255);stroke:rgb(204, 31, 31);color:rgb(0, 0, 0);stroke-width:6px;stroke-linecap:butt;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Main banner rectangle -->
+  <rect x="100" y="13" width="200" height="81" rx="3" fill="white" stroke="#cc1f1f" stroke-width="6" style="fill:rgb(255, 255, 255);stroke:rgb(204, 31, 31);color:rgb(0, 0, 0);stroke-width:6px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Cover inner seams -->
+  <rect x="103" y="16" width="6" height="75" fill="white" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <rect x="291" y="16" width="6" height="75" fill="white" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- РЕШЕНИЕ -->
+  <text x="200" y="55" text-anchor="middle" font-family="'Arial Black', Arial, sans-serif" font-weight="900" font-size="27" fill="#cc1f1f" letter-spacing="2" style="fill:rgb(204, 31, 31);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Arial Black&quot;, Arial, sans-serif;font-size:27px;font-weight:900;text-anchor:middle;dominant-baseline:auto">РЕШЕНИЕ</text>
+  <!-- ЕСТЬ -->
+  <text x="200" y="85" text-anchor="middle" font-family="'Arial Black', Arial, sans-serif" font-weight="900" font-size="20" fill="#cc1f1f" letter-spacing="10" style="fill:rgb(204, 31, 31);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Arial Black&quot;, Arial, sans-serif;font-size:20px;font-weight:900;text-anchor:middle;dominant-baseline:auto">ЕСТЬ</text>
+</svg>
